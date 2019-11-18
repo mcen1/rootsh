@@ -1,3 +1,5 @@
+Forked from https://github.com/dsaveliev/rootsh with config file additions and syslog fixes
+
 Introduction:
 =============
 
